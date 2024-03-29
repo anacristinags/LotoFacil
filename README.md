@@ -1,2 +1,2 @@
-# LotoF-cil-
+# LotoFácil
 Sistema de Loteria em Java. 
