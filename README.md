@@ -29,8 +29,8 @@ Este repositório contém as especificações detalhadas para a implementação 
 - O prêmio será dado caso o usuário digite um número par. O sistema não irá premiar jogadores que digitarem um número ímpar.
 - Se o número digitado for par, imprima “Você ganhou R$ 100,00 reais.”. Caso o usuário digite um número ímpar, imprima: “Que pena! O número digitado é ímpar e a premiação foi para números pares.”.
 
-### Como rodar e especificações do Projeto
-- Para rodar o programa, copie o código que está disponível nesse repositório. Cole o código na sua IDE, depois basta compilar e exculata-lo; 
+### Como executar e especificações do Projeto
+- Para rodar o programa, copie o código-fonte do arquivo Main.java para sua IDE, compile e execute-o;
 - **JDK:** O projeto foi desenvolvido e testado utilizando o JDK 21.0.2;
 **Bibliotecas Utilizadas:**
 - `java.util.Scanner`: Utilizada para receber entrada do usuário a partir do console.
