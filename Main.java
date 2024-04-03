@@ -48,7 +48,8 @@ public class Main {
                             letra = (char) System.in.read();
                             if(Character.isLetter(letra)){
                                 letra = Character.toUpperCase(letra);
-                                sorte = (char) (aleatorio.nextInt(25) + 65);
+                                sorte = 'A';
+                                //sorte = (char) (aleatorio.nextInt(25) + 65); (caso queira sortear uma letra aleatória)
                                 if (letra==sorte){
                                     System.out.println("Você ganhou R$ 500,00 reais");
                                 } else System.out.println("Que pena!\nA letra digitada foi: "+letra+"\nA letra sorteada foi: "+sorte);
