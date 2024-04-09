@@ -1,7 +1,7 @@
 # Sistema de Loteria em Java - LotoFácil 🎰
 
 ## Descrição:
-O sistema chamado LotoFácil, tem como objetivo gerar jogos aleatórios, permitir que os jogadores façam suas apostas, verificar os resultados e calcular prêmios de acordo com as regras da loteria. O código `Main.java` funciona por meio do terminal, lendo e escrevendo dados, já o código `Loto.java` possui uma interface gráfica. 
+O sistema chamado LotoFácil, tem como objetivo gerar jogos aleatórios, permitir que os jogadores façam suas apostas, verificar os resultados e calcular prêmios de acordo com as regras da loteria. O código `Main.java` funciona por meio do terminal, lendo e escrevendo dados, já o código `loto.java` possui uma interface gráfica. 
 
 ## Requisitos do Projeto:
 Este repositório contém as especificações detalhadas para a implementação de um menu de loteria, utilizando as estruturas `switch case` e `do while`. O menu permite ao usuário fazer diferentes tipos de apostas enquanto não optar por sair do sistema digitando o número zero.
