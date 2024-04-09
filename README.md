@@ -51,7 +51,7 @@ https://github.com/anacristinags/LotoFacil/assets/145061688/e833c6fd-4eef-4837-8
 - `java.util.InputMismatchException`: Utilizada para capturar exceções relacionadas a entradas de dados incorretas.
 - `java.lang.Object`: Importada implicitamente, é a superclasse de todas as classes no Java.
 #### Com Interface
-- Para rodar o programa, baixe a pasta `scr`, abra a pasta em sua IDE, compile e execute-o;
+- Para rodar o programa, baixe a pasta `com_interface`, abra a pasta em sua IDE, compile e execute-o;
 <br>**Bibliotecas Utilizadas:**
 - `javax.swing.*`: Utilizada para criação de interfaces gráficas de usuário (GUI).
 - `java.awt.*`: Utilizada para a criação e manipulação de componentes gráficos, como eventos de entrada.
